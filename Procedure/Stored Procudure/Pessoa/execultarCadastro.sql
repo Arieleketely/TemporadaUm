@@ -1,0 +1,1 @@
+EXEC PessoaInserir 'Ariele','Juiz de Fora','MG','Sabedoria',365,'474383'
